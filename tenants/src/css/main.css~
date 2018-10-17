@@ -1,0 +1,7 @@
+
+body {
+  /*font-family: ;*/
+  background: url('/static/backgroun.png') no-repeat center center fixed;
+  background-size:100% 100%;
+}
+
